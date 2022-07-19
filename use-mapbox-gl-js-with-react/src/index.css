@@ -5,6 +5,12 @@
     right: 30x;
 
   }
+  .button {
+    color:rgba(35, 55, 75, 0.9);
+    position: relative;
+    left: -120x;
+
+  }
   
   .sidebar {
     background-color: rgba(35, 55, 75, 0.9);
